@@ -36,5 +36,5 @@ This project presents a **Twitter Engagement Dashboard** built with **Power BI**
 ---
 
 💡 **Feel free to fork, contribute, or suggest improvements!**  
-📧 **Contact:** [Your Email or LinkedIn]  
+📧 **Contact:** https://www.linkedin.com/in/shreyansh-t  
 🌟 **Give this repo a star if you like it!** ⭐
