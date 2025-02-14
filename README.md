@@ -5,7 +5,6 @@ This project presents a **Twitter Engagement Dashboard** built with **Power BI**
 
 ## 📷 **Dashboard Preview**  
 ![Dashboard Screenshot](![c](https://github.com/user-attachments/assets/435139aa-8654-43a8-93ed-3f8b84a0f52a)
-)  
 
 ## 📌 **Key Features**  
 
